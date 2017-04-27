@@ -4,6 +4,10 @@
 
 Here's another Test
 
+```php
+<?php phpinfo();
+```
+
 ---
 
 Another Slide?
